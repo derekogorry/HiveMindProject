@@ -162,17 +162,6 @@ HiveMind allows students to schedule assignments for future submission while gat
 
 ---
 
-## Tech Stack
-
-*(To be updated during development.)*
-
-- Frontend:
-- Backend:
-- Database:
-- Authentication:
-- Deployment:
-
-
 ## License
 
 This project was developed as part of the CSC 4370 Software Engineering course at Georgia State University.
